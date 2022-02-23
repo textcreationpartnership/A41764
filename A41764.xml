@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Grand question resolved, viz. a king having protested to defend to the uttermost of his power, the true Protestant religion, with the rights and liberties of all his subjects but if they, fearing that he will violate this his protestation, take up arms to prevent it, what may be judged hereof?</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41764</idno>
+            <idno type="STC">Wing G1509</idno>
+            <idno type="STC">ESTC R7816</idno>
+            <idno type="EEBO-CITATION">12709826</idno>
+            <idno type="OCLC">ocm 12709826</idno>
+            <idno type="VID">66083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 815:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Grand question resolved, viz. a king having protested to defend to the uttermost of his power, the true Protestant religion, with the rights and liberties of all his subjects but if they, fearing that he will violate this his protestation, take up arms to prevent it, what may be judged hereof?</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Great Britain --  Religious aspects.</term>
+               <term>Protestantism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66083:1"/>
+            <pb facs="tcp:66083:1" rendition="simple:additions"/>
+            <p>THE Grand Queſtion RESOLVED: viz. A KING Having PROTESTED To Defend to the uttermoſt of his POWER, The TRUE Proteſtant Religion, WITH THE <hi>Rights and Liberties</hi> Of all his SUBJECTS:</p>
+            <p>But if they, fearing that he will Violate this his PROTESTATION, take up <hi>Arms</hi> to pre<g ref="char:EOLhyphen"/>vent it, what may be Judged hereof?</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwin,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66083:2"/>
+            <pb n="3" facs="tcp:66083:2"/>
+            <head>THE Grand Queſtion RESOLVED:</head>
+            <p>
+               <label>QUEST.</label> 
+               <hi>A King having Proteſted to defend to the uttermoſt of his Power the true Proteſtant Religion, with the Rights and Liberties of all his Subjects; but if they fearing that he will violate this his Pro<g ref="char:EOLhyphen"/>teſtation, take up Arms to prevent it, what may be judged of this kind of Proceeding?</hi>
+            </p>
+            <p>THIS Queſtion being very weighty, ought to be managed with much Caution and Candidneſs. In order hereto, it will be requiſite to propound ſome Queſtions or Doubts, which do naturally iſſue out of the propounded Queſtion, for rectifying and ſettling the Minds of all Chriſtian Subjects.</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> I.</label> Is it not better in diſputable Myſteries of State, for the Subjects to commend the whole matter to God, the Righte<g ref="char:EOLhyphen"/>ous Judge, than to take up Arms againſt their King, whom we are not to <hi>curſe in our heart,</hi> much leſs to fight againſt him with our hands?</p>
+            <pb n="4" facs="tcp:66083:3"/>
+            <p>
+               <label>II.</label> God ſaith, <hi>The Heart of the King is unſearchable;</hi> how then can any man know, whether or no a King will de<g ref="char:EOLhyphen"/>cline from his Oath? And if ſo, why ſhould any Subject oppoſe him by raiſing of Arms, becauſe he feareth ſuch a Declining?</p>
+            <p>
+               <label>III.</label> God ſaith, <hi>The Kings heart is in the hand of the Lord, as the Rivers of water, he turneth it whitherſoever it pleaſeth him;</hi> if then a King decline from his Proteſtation, God if it pleaſe him can again reduce him to it. Is it not then ſafer for Sub<g ref="char:EOLhyphen"/>jects to rely upon Gods Word and Providence, than to take up Arms againſt their Soveraign?</p>
+            <p>
+               <label>IV.</label> God gives this counſel, <hi>I counſel thee to keep the Kings Com<g ref="char:EOLhyphen"/>mandment; and that in regard of the Oath of God,</hi> Eccleſ. 8.2. So far then we ought to obey the King, as obliged by our Oaths, which oblige us, and that with relation to the <hi>fifth Commandment.</hi> If then Arms be taken up againſt the King, is there no violation of any Promiſe, Vow, or Oath? and is there no Commandment of God rejected?</p>
+            <p>
+               <label>V.</label> We hold this Aſſertion to be true, <hi>Sanguis Martyrum eſt ſemen Eccleſiae;</hi> The Blood of the Martyrs is the Seed of the Church: If then the Subjects perceive that their King break<g ref="char:EOLhyphen"/>eth his Oath, were it not better for them to dye Martyrs, and thus to ſpend theit Blood in the Cauſe of Religion, than to ſpill it in a Civil War? doth he offend that dyeth a Martyr?</p>
+            <p>
+               <label>VI.</label> St. <hi>Paul</hi> teacheth us, <hi>Whatſoever is not of Faith is ſin.</hi> When therefore Subjects wage Warre againſt their King, thoſe that
+<pb n="5" facs="tcp:66083:3"/>are Ignorant or miſinformed, have no ground, or Faith, to build this their fighting upon: who then ſhall anſwer for the Blood of theſe men, if it be ſhed in ſuch a Civil War? Shall not they who ſhould inform and do not, or elſe miſ<g ref="char:EOLhyphen"/>inform? And how ſhall men thus ſlain, and that dye in their ſin, be able to anſwer at that great day of Judgment, whoſe ſuddenneſs of death was hereby occaſioned?</p>
+            <p>
+               <label>VII.</label> Moral honeſty teacheth Men to keep their Promiſes, much more their deliberate ſolemn Oaths. Chriſtianity re<g ref="char:EOLhyphen"/>quireth the ſame, yea, though it be to the hurt of him that ſweareth. For theſe and the like Reaſons, every good Man, who conſiderably obſerveth his Promiſe and Oath, may be truly offended againſt all thoſe who will not give cre<g ref="char:EOLhyphen"/>dence to his promiſe, nor yet to his Oath. Can a King be well pleaſed, when this hard lot befalleth him? Will he like to be accounted a Liar upon a meer ſurmiſe without any proof.</p>
+            <p>
+               <label>VIII.</label> David's <hi>Heart ſmote him after he had cut off the Skirt of</hi> Saul<hi>'s Robe privily.</hi> If Arms ſhould be raiſed up againſt a King, and his Life in danger to be cut off thereby, would no Mans heart, who had a hand in ſuch a buſineſs, be ſo tender as to ſmite him?</p>
+            <p>
+               <label>IX.</label> Chriſt commandeth, <hi>Render to</hi> Caeſar <hi>the things which are</hi> Caeſars; namely, Toll, Tribute, Cuſtom, <hi>&amp;c.</hi> if then ſuch things as theſe be detained from a King, and withall an attempt made to beat him with his own We apons; how is Chriſt's Commandment obſerved and obeyed? Are the Arms which are <hi>Caeſars,</hi> to be rendred to <hi>Caeſar</hi> to his deſtruction?</p>
+            <p>
+               <label>X.</label> Chriſt ſaith, <hi>Bleſſed are they that are perſecuted for Righte<g ref="char:EOLhyphen"/>ouſneſs ſake.</hi> And thus the Caſe ſtandeth; if a King for<g ref="char:EOLhyphen"/>get
+<pb n="6" facs="tcp:66083:4"/>his duty towards God and Man, and doth cruelly perſe<g ref="char:EOLhyphen"/>cute his Subjects; are not ſuch Subjects ſo perſecuted for their firm adherence to a Righteous cauſe, bleſſed, in that they patiently endure it? But where hath Chriſt taught us that they are bleſſed that perſecute their King at any time.</p>
+            <p>
+               <label>XI.</label> 
+               <hi>Where the Word of a King is, there is Power; and who may ſay unto him, What doſt thou?</hi> Eccleſ. 8.4. May not theſe Words rightly underſtood, and wiſely applyed to the Con<g ref="char:EOLhyphen"/>ſcience, perſwade a Man to debate the matter, and to expoſtulate with himſelf, ſaying, What doſt thou? before he preſume to rectifie a King's Errours with the drawn Sword, except it be with the Sword of the Spirit, which is the Word of God? For the King of Kings ſaith of an Earthly King, who may ſay unto him, <hi>What doſt thou?</hi>
+            </p>
+            <p>
+               <label>XII.</label> 
+               <hi>David</hi> asketh this Queſtion concerning <hi>Saul,</hi> who was a very wicked King, <hi>Who can ſtretch forth his hand againſt the Lord's Anointed and be guiltleſs?</hi> If any Man might, why not <hi>David,</hi> who was cauſleſly and violently perſecuted by <hi>Saul,</hi> and who was alſo to ſucceed him in his Throne? yet his Conſcience taught him not to Right his own wrongs, but he waited the good hour, till God ſhould be pleaſed either to turn his Heart, or to end his Dayes. Who believeth not, that <hi>David</hi> was endued and extraordinarily guided by Gods Spirit, as in other matters, ſo in this particular behaviour towards <hi>Saul?</hi> And who then will not reſolve and pray as <hi>David</hi> did? <hi>The Lord forbid</hi> (ſaith he) <hi>that I ſhould ſtretch forth my hand againſt the Lords Anointed. David</hi> prayed thus after <hi>Saul</hi> had violated that truſt, which his Subjects repoſed in him.</p>
+            <p>
+               <label>XIII.</label> God directs us to two means of pacifying an angred Prince either by forbearance, or by giving a ſoft Anſwer: the Words are plain; <hi>By long forbearing is a Prince perſwa<g ref="char:EOLhyphen"/>ded,
+<pb n="7" facs="tcp:66083:4"/>and a ſoft Anſwer breaketh the Bone.</hi> But when Arms are taken up, where is forbearing? And when the Sword is drawn, what hope is there that a ſoft Anſwer will per<g ref="char:EOLhyphen"/>ſwade?</p>
+            <p>
+               <label>XIV.</label> The Names which are given to Kings and Queens by God himſelf, ſhould be very much regarded by all good Men: for they are called, <hi>Nurſing Fathers, and Nurſing Mo<g ref="char:EOLhyphen"/>thers, yea, gods.</hi> Is it not unnatural to unſheath the Sword againſt Father or Mother? Is it not impious to unſheath the Sword againſt him who is the Supreme of all Earthen gods? <hi>Touch not mine Anointed,</hi> ſaith God Almighty; and will he allow his Subjects to fight againſt him, who is the Supreme Ruler, and God's Vicegerent upon Earth?</p>
+            <p>
+               <label>XV.</label> The wiſeſt King, being taught by the King of Kings teacheth thus; <hi>The fear of a King is as the roaring of a Lyon; whoſo provoketh him to Anger, ſinneth againſt his own Soul.</hi> If any Subjects take up Arms again their King, are they not hereby likely to provoke him to great anger? And hereby raiſe up a great Fear, whereby to terrifie themſelves? And is it no ſin, thus to provoke a King?</p>
+            <p>
+               <label>XVI.</label> The King of <hi>Iſrael</hi> ſpake thus to <hi>Benhadad, Let not him that girdeth on his Harneſs boaſt himſelf, as he that putteth it off.</hi> When Subjects raiſe War againſt their Prince, it's probable they are confident of Victory; elſe why ſhould they take them up? And if they be thus Confident, let them Remem<g ref="char:EOLhyphen"/>ber what <hi>Ahab</hi> ſaid to <hi>Benhadad,</hi> and ſo much the more let them do this, becauſe many wiſe and Godly Learned Men affirm that Subjects ought not to take up Arms againſt their Sovereign; and why ſhould the Counſel of wiſe Men be utterly rejected as not fit to be our Counſellors?</p>
+            <pb n="8" facs="tcp:66083:5"/>
+            <p>
+               <label>XVII.</label> When King <hi>David</hi> purpoſed to march forth in Battel againſt his Rebellious Son <hi>Abſalom,</hi> his Loyal and Loving Subjects ſpake thus to him, <hi>Thou ſhalt not go forth;</hi> and why? Becauſe, ſay they, <hi>Thou art worth Ten thouſand of us.</hi> Would not <hi>David</hi>'s Subjects willingly permit him to go forth to Battel, and will any Subjects go to Battel againſt their King? Was <hi>David</hi> worth Ten thouſand of his Sub<g ref="char:EOLhyphen"/>jects; and durſt any go forth to Battel againſt him, who if he ſhould be ſlain (and it is too probable in ſuch a Caſe he may) ſhall not a King's Blood cry as loud for Vengeance, as the Blood of Thouſands of Subjects?</p>
+            <p>
+               <label>XVIII.</label> Thoſe that dare adventure to wage War againſt their Sovereign, may be too ready to cenſure, and perhaps to condemn all thoſe that be not ſo forward in this action as themſelves; and if they thus cenſure and condemn, what Anſwer can they frame to thoſe Queſtions, which God propo<g ref="char:EOLhyphen"/>ſeth? <hi>Who art thou that judgeſt another Mans Servant</hi> (which I conceive may not be unaptly interpreted the Kings Loyal Subject?) <hi>to his own Maſter he ſtandeth or falleth. Why doſt thou judge thy Brother? Or why doſt thou ſet at nought thy Brother? We ſhall all ſtand before the Judgment Seat of Chriſt.</hi> And then it will appear, whether thoſe that take up Arms againſt their Sovereign, or thoſe that refuſe, are in the right.</p>
+            <p>
+               <label>XIX.</label> Our Bleſſed Saviour was ſo deſirous to ſhew all due re<g ref="char:EOLhyphen"/>ſpect unto <hi>Caeſar,</hi> that for the expreſſing thereof he wrought a miraculous work, there being, (at his Command to <hi>Pe<g ref="char:EOLhyphen"/>ter</hi>) a Fiſh taken out of the Sea, in whoſe mouth was found a piece of Money, which he commanded to he gi<g ref="char:EOLhyphen"/>ven for Tribute. And did our Saviour work ſo miraculouſly, becauſe he would not offend againſt <hi>Caeſar,</hi> and ſhall not all good Subjects rather chuſe to ſuffer any indignity or loſs, than to omit, or do any thing, which damnifie their King? And when Arms are taken up againſt
+<pb n="9" facs="tcp:66083:5"/>him, is he not damnified and diſhonoured?</p>
+            <p>
+               <label>XX.</label> There be three Commandments, which God hath joined together, and they are thus delivered to us: <hi>My Son fear thou the Lord, and the King; and meddle not with them which are given to change.</hi> And what is ſaid in Scripture elſewhere? <hi>A threefold Cord is not eaſily broken.</hi> If then the true fear of God, and of the King, and therewith a ſettled Reſolution not to meddle with them which are given to Change, be all twiſted together, and treaſured up in our hearts; and if in our Lives we expreſs a fruitful practice of them, then is indeed evidenced our Sonſhip to God; unto whom he giveth theſe three Commandments; whereof if one be broken, the other is alſo violated: for he that feareth not God, how doth he fear his King, or abſtain from them which are given to change? He that feareth not the King how doth he fear God, or take care to keep his Command<g ref="char:EOLhyphen"/>ment, namely, to fear the King and not to meddle with them which are given to change? Or he that is given to change, how like is he to that God, which changeth not, or like to a good King which Ruleth by his Conſtant known Laws? Therefore if Subjects riſe up in Arms againſt their Liege Lord and King, are they not likely to break one of theſe Commandments? And if we fail in one Point of God's Commandments, do we not thereby incur the guilt of breaking all?</p>
+            <p>
+               <label>XXI.</label> The Holy Ghoſt doth rectifie the Hearts and Practice of all Loyal Subjects towards their Kings, ſaying, <hi>Whoſoever re<g ref="char:EOLhyphen"/>ſiſteth the power, reſiſteth the Ordinance of God,</hi> Rom. 13.2. And who was Emperor at that time, when this Direction was given? Was it not <hi>Claudius</hi> that Prophane Infidel, and cruel Tyrant? much more then ſhould all Chriſtian Subjects forbear to take up Arms againſt a Chriſtian King, who, by reaſon that he is a Chriſtian King, is therefore much more to be honoured and obeyed, than thoſe wicked and profligate Emperours <hi>Claudius,</hi> or <hi>Nero,</hi> or <hi>Julian</hi> the Apo<g ref="char:EOLhyphen"/>ſtate; and yet the Chriſtian Souldiers, who were more than
+<pb n="10" facs="tcp:66083:6"/>the Heatheniſh, would not reſiſt him. And why may we not believe, that they were ſo temperate and obedient, be<g ref="char:EOLhyphen"/>cauſe they had learned, and purpoſed by God's grace, to practice that which followeth in the fifth Verſe of the ſame Chapter, <hi>Wherefore ye muſt needs be ſubject, not only for Wrath, but for Conſcience ſake?</hi> They would not provoke a wicked Emperour to wrath, and their own Conſcience (being in<g ref="char:EOLhyphen"/>ſtructed by God's Word) taught them thus to do.</p>
+            <p>
+               <label>XXII.</label> 
+               <hi>By me Kings Reign,</hi> ſaith God. God himſelf not only ſetteth the Good, but wicked Kings upon their Thrones. It was God, that gave the Scepter to wicked <hi>Saul,</hi> and <hi>David</hi> would by no means moleſt him in his Government, much leſs undertake to War againſt him, in hope to wreſt the Scepter out of his hand. Is it Chriſtian wiſdom to fight againſt God's Ordinance? For ſuch Warriours, in ef<g ref="char:EOLhyphen"/>fect, fight againſt God; and if we enter the liſts with God, are not we like to loſe the Victory?</p>
+            <p>
+               <label>XXIII.</label> After that King <hi>David</hi> had committed thoſe two groſs ſins of Adultery and Murther, obſerve in what manner he maketh his Confeſſion before God for them: <hi>Againſt thee, thee only, have I ſinned.</hi> Againſt thee only (ſaith St. <hi>Am<g ref="char:EOLhyphen"/>broſe</hi>) becauſe <hi>David</hi> was a King, and was bound to no Law: for a King (as the ſame Author addeth, and with him many Reverend Authors concur) that a King is not bound over to Puniſhment by any Law, but is ſet flee from them by his Sovereign Authority. Therefore <hi>Nathan</hi> the Prophet admoniſheth <hi>David</hi> to expiate his Sins before God Almighty by humble Repentance, and lively Faith; but he denounceth not the Law againſt him, whereby to inflict on him the Legal puniſhment of an Adulterer and a Murderer; herein he left the whole Matter to God's own diſpoſement. Whoſoever then preſume to fight againſt their King (and by this affront do attempt no ſmall puniſh<g ref="char:EOLhyphen"/>ment both of his Mind and Body) are they perhaps the more forward to make ſuch an aſſault, becauſe they take themſelves to be more Wiſe and Judicious than <hi>Ambroſe?</hi>
+               <pb n="11" facs="tcp:66083:6"/>But who dare compare himſelf with the Prophet <hi>Na<g ref="char:EOLhyphen"/>than?</hi>
+            </p>
+            <p>
+               <label>XXIV.</label> If a wicked King ſhould furiouſly rage againſt Chriſt's Church, yet ſhould the People of God Solace themſelves exceedingly in this, that <hi>Chriſt hath built it upon a Rock;</hi> and they ought to believe, that though it may be, and of<g ref="char:EOLhyphen"/>ten is much ſhaken, yet it cannot be overthrown: and that it may ſtand the more firmly, muſt not the People of God perform their Duty, and attend Chriſt's Command<g ref="char:EOLhyphen"/>ments, and withall firmly eſtabliſh their Hearts upon the gracious promiſes therewith annexed and delivered in theſe words, <hi>Ask, and it ſhall be given you; ſeeek, and ye ſhall find; Knock, and it ſhall be opened to you.</hi> Prayer is the Chriſtian Armour; which all diſtreſſed Subjects ought to put on, and if they uſe it aright, even he Gates of Hell ſhall not prevail againſt them. The devout <hi>Jews</hi> thus Armed themſelves, when King <hi>Ahaſuerus</hi> had granted forth a Decree for their utter overthrow. They did not Mutiny, much leſs take up the Sword, to vindicate their Religion and Liberty: and why ſhould not all good Subjects in theſe dayes, behave themſelves as the <hi>Jews</hi> then did? And ſo much the rather, leſt Chriſt's words prevail againſt them, <hi>viz, All they that take the Sword ſhall periſh with the Sword.</hi>
+            </p>
+            <p>
+               <label>XXV.</label> 
+               <hi>A Divine Sentence,</hi> ſaith <hi>Solomon, is in the Lips of the King, his Mouth tranſgreſſeth not in Judgement.</hi> The Lord affordeth more than ordinary aſſiſtance, and direction to Kings; and therefore when <hi>Saul,</hi> a very wicked King, was by God's appointment to ſway the Scepter, we read, <hi>God gave him another Heart,</hi> even the Spirit of Government: therefore ſhould not all Loyal Subjects rather ſuſpect themſelves in an Errour, than their King. Not but that a King, is but a Man and ſo ſubject to failure; but being a Man in extraordi<g ref="char:EOLhyphen"/>nary place, and appointment, why may not he alſo obtain extraordinary aid and Direction from God? And then why ſhould Subjects take up the Sword to rectifie the Er<g ref="char:EOLhyphen"/>rour of their King?</p>
+            <pb n="12" facs="tcp:66083:7"/>
+            <p>
+               <label>XXVI.</label> 
+               <hi>The Wrath of a King</hi> (as ſaith Gods Word) <hi>is as Meſſengers of Death, but a wiſe Man will pacifie it.</hi> When Arms are taken up againſt a King, doubtleſly hereby the Kings wrath is very much incenſed; and therefore ſhould not all Subjects be more ready in ſhewing their wiſdom in pacifying, than in exaſperating his wrath? God grant the one, and prevent the other in every Nation.</p>
+            <p>
+               <label>XXVII.</label> 
+               <hi>The Kings wrath is as the roaring of a Lyon; but his fa<g ref="char:EOLhyphen"/>vour is as the Dew upon the Graſs.</hi> Who will provoke a Lyon to roar, and then come within the reach of his Chain? Who will provoke their King to wrath by taking up Arms, and preſume they ſhall not come within the reach of his Verge? If his favour be as dew upon the Graſs, will not his provoked wrath become as Fire among the Stubble? And doth not every Subject rather deſire to be refreſh<g ref="char:EOLhyphen"/>ed with ſuch a dew, than to be conſumed with a Fire of their own kindling?</p>
+            <p>
+               <label>XXVIII.</label> There be four things ſtately, as in <hi>Prov.</hi> 30.29, 30, 31. and among them a King is truly Majeſtical; <hi>againſt whom there is no riſing up,</hi> ſaith God: and dare any true ſervant of God, and true-hearted Subject do the contrary, by ri<g ref="char:EOLhyphen"/>ſing up againſt their King? And is not raiſing of Arms an ariſing againſt him? If then Arms be thus raiſed, how can any that are thus forward, promiſe to themſelves Victory over their King, whom they preſume to reſiſt? Or how can they diſpence with their own Conſciences, ſeeing this is the expreſs Word of God, <hi>Againſt him there is no riſing up?</hi>
+            </p>
+            <pb n="13" facs="tcp:66083:7"/>
+            <p>
+               <label>XXIX.</label> Before any War by any People or Nations be attempt<g ref="char:EOLhyphen"/>ed, the Counſel which God giveth, is to be accepted and embraced; and God counſelleth thus, <hi>With good advice make War.</hi> But where may ſuch advice be taken? Even where it is plainly and freely given in the Volumn of God's Book, the Bible ; which ſome have and others may wreſt to their own deſtruction. Learned Councils have erred, <hi>Adam</hi> in Paradiſe erred, the Angels themſelves groſly erred; may not wiſe Men err? and if ſuch Men may err, why not in the particular buſineſs of the Subjects riſing in Arms againſt their Prince? Let any that may hold that Poſition of it's lawfulneſs, conſider, may not an Iron Rod (if any Sub<g ref="char:EOLhyphen"/>jects take up Arms againſt their King) rather bruiſe, or harden, than mollifie and make him better?</p>
+            <p>
+               <label>XXX.</label> 
+               <hi>In the Multitude of People is the Kings Honour, but in the want of People is the Deſtruction of the Prince.</hi> When Arms are raiſed by the Subjects, to reduce, or rather to enforce their King to do what they pleaſe; is it not probable, that the Multitude of his People and therewith his Honour ſhall be diminiſhed? And is not the want of People the de<g ref="char:EOLhyphen"/>ſtruction of the Prince? God ſaith ſo; experience alſo prov<g ref="char:EOLhyphen"/>eth it to be the deſtruction both of a King, and of his Kingdom? If then the Subjects truly love God, their King and themſelves, is it not a matter of great concernment, and worth their deepeſt conſideration, that by raiſing of Arms they may Diſhonour God, wrong their King, and themſelves to their own ruines?</p>
+            <p>
+               <label>XXXI.</label> God declareth what we may think of the beginning of Strife, and what alſo we may judge is likely to be the iſſue thereof; theſe words demonſtrate it, <hi>The beginning of Strife is as when one letteth out Water; therefore leave off Conten<g ref="char:EOLhyphen"/>tion before it be meddled with.</hi> At the firſt appearance ſtrife may be thought to be very ſmall, and as the Cloud
+<pb n="14" facs="tcp:66083:8"/>which <hi>Elijah</hi>'s Servant ſaw ariſing out of the Sea, like a Mans hand; yet that in a ſhort time overſpread the whole Heavens, and abundance of Rain did enſue. Abun<g ref="char:EOLhyphen"/>dance of trouble and of Blood-ſhed may enſue, if but one, or a few hands be firſt Actors in the raiſing of Arms: and who can tell how far the Waters of Contention may hereupon flow? Such bitter Waters as theſe may be call<g ref="char:EOLhyphen"/>ed by the Names which <hi>Iſaac</hi> gave to the Wells which his Servants digged, one he called <hi>Eſek</hi> (contention) ano<g ref="char:EOLhyphen"/>ther <hi>Sitnah</hi> (hatred.) Is it not therefore godly Wiſdom to embrace God's Counſel, <hi>Leave off contention before it be med<g ref="char:EOLhyphen"/>dled with?</hi> And if it have been meddled with, ſhould not all good People pray inſtantly and heartily, that a Well-Spring of Living Waters may be found out, which may be called <hi>Rehoboth (Room?)</hi> And that it may be ſaid of this Nation, now the Lord hath made room for us, and we ſhall be fruitful in the Land, by no means entring the Liſts of Contention and ſtrife, but in well doing commit<g ref="char:EOLhyphen"/>ting our concerns to God, ſubmitting with Patience to him as the Governour, and diſpoſer of all things.</p>
+            <p>
+               <label>XXXII.</label> The Apoſtle Saint <hi>James</hi> hath laid a ſure Foundation for all Chriſtian Souldiers to build upon, if with a clear Conſcience before God and Man, they be able to anſwer to thoſe Queſtions propounded, <hi>From whence come Wars and Fightings among you? Come they not hence, even of your Luſts, that war in your Members?</hi> There is a Luſt, or luſting af<g ref="char:EOLhyphen"/>ter Profit, Pleaſure, vain Glory, whenas too many Men are ready to ſpeak as <hi>Jehu</hi> did; <hi>Come with me, and ſee my Zeal for the Lord of Hoſts.</hi> And what is the iſſue and event of ſuch eager thirſting deſires? Believe God in theſe Words of his, <hi>Ye Luſt, and have not; ye kill, and deſire to have, and cannot obtain: Ye fight and War, and yet have not, becauſe ye ask not; ye ask, and receive not, becauſe ye ask amiſs, that ye may conſume it upon your Luſts.</hi> And whether or no Subjects taking up Arms againſt their King be a rectified Zeal, let them conſider, and prove for it a Warrant from Gods Word, which are ſo perſwaded.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <pb n="15" facs="tcp:66083:8"/>
+                        <head>Let us but obſerve the Oath of <hi>Allegiance,</hi> the Tenor whereof is thus for Word.</head>
+                        <p>
+                           <hi>I. A. B.</hi> do truly and ſincerely acknowledge, profeſs, teſtifie, and and declare in my Conſcience before God and the World; that our Sovereign Lord King <hi>Charles</hi> the Second is Lawful and Rightful Heir of this Realm, and of all other his Majeſties Do<g ref="char:EOLhyphen"/>minions and Countreys; and that the Pope neither of himſelf, nor by any Authority by the Church or See of <hi>Rome,</hi> or by any other mans with any other, hath any power or Authority, to depoſe the King, or to diſpoſe of any of his Majeſties Kingdoms, or Domi<g ref="char:EOLhyphen"/>nions; or to Authorize any Forreign Prince to invade or annoy him, or his Countreys; or to diſcharge any of his Subjects of their Allegi<g ref="char:EOLhyphen"/>ance and Obedience to his Majeſly; or to give Licenſe or Leave to any of them to bear Arms, raiſe Tumults, or to offer any vio<g ref="char:EOLhyphen"/>lence or hurt to his Majeſties Royal Perſon, State, or Govern<g ref="char:EOLhyphen"/>ment, or to any of his Majeſties Subjects within his Majeſties Dominions.</p>
+                        <p>Alſo I do ſwear from my Heart, that notwithſtanding any De<g ref="char:EOLhyphen"/>claration, or Sentence of Excommunication, or Deprivation, made or granted, or to be made or granted by the Pope, or his Succeſſors, or by any Authority derived, or pretended to be derived from him, or his See, againſt the ſaid King, his Heirs or Succeſſors, or any Abſolution of the ſaid Subjects from their obedience, I will bear Faith and true Allegiance to his Majeſty, his Heirs and Succeſſors, and him and them will defend to the uttermoſt of my Power; againſt all Conſpiracies and attempts whatſoever, which ſhall be made againſt his, or their Perſons, their Crown and Dignity, by reaſon or colour of any ſuch Sentence, or Declaration, or otherwiſe; and will do my beſt endeavour to diſcloſe, and make known to his Ma<g ref="char:EOLhyphen"/>jeſty his Heirs and Succeſſors, all Treaſon or Traiterous Conſpira<g ref="char:EOLhyphen"/>cies, which I ſhall know, or hear of, to be againſt him or any of them.</p>
+                        <p>And I do further ſwear, that I do from my Heart abhor, deteſt, and abjure as impious and Heretical, this Damnable Doctrine, and Poſition, that Princes which be Excommunicated or deprived by the Pope, may be Depoſed, or Murthered by their Subjects, or any other whatſoever.</p>
+                        <p>And I do believe, and am in Conſcience reſolved, that neither
+<pb n="16" facs="tcp:66083:9"/>the Pope, nor any Perſon whatſoever, hath power to abſolve me of this Oath, or any part thereof, which I acknowledge by good and full Authority to be lawfully adminiſtred unto me, and do renounce all Pardons and Diſpenſations to the Contrary: And all theſe things, do plainly, and ſincerely acknowledge and ſwear, according to the expreſs words by me ſpoken, and according to the plain and common ſence and underſtanding of the ſame words, without any Equivo<g ref="char:EOLhyphen"/>cation or mental Reſervation whatſoever; and I do make this Re<g ref="char:EOLhyphen"/>cognition and acknowledgment heartily, willingly and truly upon the true Faith of a Chriſtian: ſo help me God.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus in concluſion may we end with this Aſſertion, that Popery is the worſt Enemy to Monarchy, and amongſt <hi>Proteſtant</hi> Subjects, <hi>Papiſts</hi> have moſt certainly been the in<g ref="char:EOLhyphen"/>ſtruments of ſowing the ſeeds of diſcord, in an un<g ref="char:EOLhyphen"/>wearied endeavour to raiſe in the Mind of the Prince a diſaffection to his People, and in the Mind of the People a prejudice againſt their Prince, the better to accompliſh their curſed By, and ſelfiſh Ends. Therefore let us una<g ref="char:EOLhyphen"/>nimouſly pray to God to inſtruct the Mind of every King with Wiſdom, not to hearken to their curſed Devices, and alſo of all Subjects not to be deluded to the diſhonour of their God, hurt of their Prince, and ruine of themſelves, to any unnatural Rebellion againſt their Natural Lord and King. But, to conclude, if ſo be any Prince ſhould command any thing contrary to the Divine will, as revealed to us in the Scriptures, <hi>Which ſhould we obey God or Man, judge ye.</hi> But doubt<g ref="char:EOLhyphen"/>leſs though <hi>Paul</hi> would refuſe in that caſe to yield active obedience, yet not paſſive, ſo as not by force of Arms to reſiſt his Prince. And therefore let us have the Chriſtian prudence, <hi>viz,</hi> with a rectified Conſcience, and unbyaſſed inclination, duely to weigh theſe propounded Reaſons, and Quaeries, and the Natural and Scriptural inferences there<g ref="char:EOLhyphen"/>upon deduced, that we may become Gods true ſervants, and the Kings truly Loyal Subjects.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66083:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
